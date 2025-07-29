@@ -77,10 +77,7 @@ Start the development server:
 ```
 python manage.py runserver
 ```
-Visit http://127.0.0.1:8000/admin in your browser login with admin and in users add new user with username and password from https://github.com/Akshay-Arjun/National-Project-Management/blob/895ca43cc50b7edfb105d751329e596b2d2706c7/national-pm/local_settings.py#L60 https://github.com/Akshay-Arjun/National-Project-Management/blob/895ca43cc50b7edfb105d751329e596b2d2706c7/national-pm/local_settings.py#L61
-Now make click on edit this user and click on checkbox which says Demo User.
-## 7. Logout 
-## 8. Home Page
+
 Visit http://127.0.0.1:8000/ in your browser (This page is for users aka students).
 
 
